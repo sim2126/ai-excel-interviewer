@@ -1,1 +1,5 @@
-streamlitpandasgoogle-generativeaiopenpyxlxlsxwriter
+streamlit
+pandas
+google-generativeai
+openpyxl
+xlsxwriter
